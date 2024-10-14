@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7uXrM6C1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1jsj8dy2kxbmgio1tegl.gif"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7uXrM6C1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1jsj8dy2kxbmgio1tegl.gif" align="center" alt="fronted dev"/>
 🌱 I’m currently learning **React**
 
 <h3 align="left">Languages and Tools:</h3>
