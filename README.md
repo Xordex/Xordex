@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
-
+<img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"/>
 🌱 I’m currently learning **React**
 
 <h3 align="left">Languages and Tools:</h3>
